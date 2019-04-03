@@ -63,25 +63,25 @@ table.diff td:nth-child(2) {
 }
 
 .diff .delete {
-  background-color: #fee;
+  background-color: #FFEBEE;
 }
 .diff .insert {
-  background-color: #efe;
+  background-color: #D8FED8;
 }
 
 .before.replace {
-  background-color: #fee;
+  background-color: #FFEBEE;
 }
 .after.replace {
-  background-color: #efe;
+  background-color: #D8FED8;
 }
 
 .before .char-replace, .before .char-delete {
-  background-color: #fcc;
+  background-color: #FFCDD2;
 }
 
 .after .char-replace, .after .char-insert {
-  background-color: #cfc;
+  background-color: #AAF2AA;
 }
 
 /* Single column selection */
